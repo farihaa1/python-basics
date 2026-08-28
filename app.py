@@ -20,7 +20,7 @@ print(10//3)  # floor division 3
 print(10 % 3)  # remainder 1
 print(10 ** 3)  # power 1000
 
-#stings combine
+#strings combine
 first_name = "fariha"
 last_name = "sarkar"
 
