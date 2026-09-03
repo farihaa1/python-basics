@@ -13,4 +13,5 @@ def main():
     result = decimal_to_binary(number)
     print("Binary: ",result)
     
+#main    
 main()
