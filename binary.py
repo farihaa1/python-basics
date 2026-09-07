@@ -8,6 +8,7 @@ def decimal_to_binary(n):
         n=n//2
     return binary
 #function
+
 def main():
     number = int(input("Enter a decimal number "))
     result = decimal_to_binary(number)
